@@ -1,16 +1,18 @@
 # geonames v2.x
 
 
-[![Latest Stable Version](https://poser.pugx.org/michaeldrennen/geonames/version)](https://packagist.org/packages/michaeldrennen/geonames)  [![Total Downloads](https://poser.pugx.org/michaeldrennen/geonames/downloads)](https://packagist.org/packages/michaeldrennen/geonames)  [![License](https://poser.pugx.org/michaeldrennen/geonames/license)](https://packagist.org/packages/michaeldrennen/geonames) [![GitHub issues](https://img.shields.io/github/issues/michaeldrennen/Geonames)](https://github.com/michaeldrennen/Geonames/issues) [![GitHub forks](https://img.shields.io/github/forks/michaeldrennen/Geonames)](https://github.com/michaeldrennen/Geonames/network) [![GitHub stars](https://img.shields.io/github/stars/michaeldrennen/Geonames)](https://github.com/michaeldrennen/Geonames/stargazers) ![Travis (.org)](https://img.shields.io/travis/michaeldrennen/Geonames)  
+[![Latest Stable Version](https://poser.pugx.org/xlvis7/geonames/version)](https://packagist.org/packages/xlvis7/geonames)  [![Total Downloads](https://poser.pugx.org/xlvis7/geonames/downloads)](https://packagist.org/packages/xlvis7/geonames)  [![License](https://poser.pugx.org/xlvis7/geonames/license)](https://packagist.org/packages/xlvis7/geonames) [![GitHub issues](https://img.shields.io/github/issues/xlvis7/Geonames)](https://github.com/michaeldrennen/Geonames/issues) [![GitHub forks](https://img.shields.io/github/forks/xlvis7/Geonames)](https://github.com/michaeldrennen/Geonames/network) [![GitHub stars](https://img.shields.io/github/stars/xlvis7/Geonames)](https://github.com/michaeldrennen/Geonames/stargazers) ![Travis (.org)](https://img.shields.io/travis/xlvis7/Geonames)  
 
 A Laravel (php) package to interface with the geo-location services at geonames.org.
 
 ## Notes
+Forked by xlvis7 to support Laravel7
+
 There is still a lot that needs to be done to make this package "complete". I've gotten it to a point where I can use it for my next project. As time allows, I will improve the documentation and testing that comes with this package. Thanks for understanding.
 
 ## Installation
 ```
-composer require michaeldrennen/geonames
+composer require xlvis7/geonames
 ```
 And then add `geonames` provider to `providers` array in `app.php` config file:
 
