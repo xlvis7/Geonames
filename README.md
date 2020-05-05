@@ -1,7 +1,7 @@
 # geonames v2.x
 
 
-[![Latest Stable Version](https://poser.pugx.org/xlvis7/geonames/version)](https://packagist.org/packages/xlvis7/geonames)  [![Total Downloads](https://poser.pugx.org/xlvis7/geonames/downloads)](https://packagist.org/packages/xlvis7/geonames)  [![License](https://poser.pugx.org/xlvis7/geonames/license)](https://packagist.org/packages/xlvis7/geonames) [![GitHub issues](https://img.shields.io/github/issues/xlvis7/Geonames)](https://github.com/michaeldrennen/Geonames/issues) [![GitHub forks](https://img.shields.io/github/forks/xlvis7/Geonames)](https://github.com/michaeldrennen/Geonames/network) [![GitHub stars](https://img.shields.io/github/stars/xlvis7/Geonames)](https://github.com/michaeldrennen/Geonames/stargazers) ![Travis (.org)](https://img.shields.io/travis/xlvis7/Geonames)  
+[![Latest Stable Version](https://poser.pugx.org/xlvis7/geonames/version)](https://packagist.org/packages/xlvis7/geonames)  [![Total Downloads](https://poser.pugx.org/xlvis7/geonames/downloads)](https://packagist.org/packages/xlvis7/geonames)  [![License](https://poser.pugx.org/xlvis7/geonames/license)](https://packagist.org/packages/xlvis7/geonames) [![GitHub issues](https://img.shields.io/github/issues/xlvis7/Geonames)](https://github.com/xlvis7/Geonames/issues) [![GitHub forks](https://img.shields.io/github/forks/xlvis7/Geonames)](https://github.com/xlvis7/Geonames/network) [![GitHub stars](https://img.shields.io/github/stars/xlvis7/Geonames)](https://github.com/xlvis7/Geonames/stargazers) ![Travis (.org)](https://img.shields.io/travis/xlvis7/Geonames)  
 
 A Laravel (php) package to interface with the geo-location services at geonames.org.
 
