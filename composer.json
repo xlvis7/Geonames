@@ -1,12 +1,12 @@
 {
-  "name": "xlvis7/geonames",
+  "name": "michaeldrennen/geonames",
   "description": "A Laravel (php) package that interfaces with the geolocation services on geonames.org.",
   "type": "library",
   "license": "MIT",
   "authors": [
     {
-      "name": "xlvis7",
-      "email": "xlvis7"
+      "name": "Michael Drennen",
+      "email": "michaeldrennen74@gmail.com"
     }
   ],
   "require": {
@@ -14,7 +14,7 @@
     "ext-intl": "*",
     "ext-pdo": "*",
     "ext-curl": "*",
-    "laravel/framework": "^7.0",
+    "laravel/framework": "^6.0",
     "michaeldrennen/remote-file": "^2.0",
     "michaeldrennen/local-file": "^2.0",
     "curl/curl": "^2.2",
